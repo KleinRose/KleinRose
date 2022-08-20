@@ -1,4 +1,4 @@
-# :CN:
+# :cn:
 - 👋 Hi, I’m KleinRose
 - 👀 I’m interested in ping-pong and game
 - 🌱 I’m currently learning front-end
