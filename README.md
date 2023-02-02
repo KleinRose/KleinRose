@@ -1,7 +1,7 @@
 # :cn:
 - 👋 Hi, I’m KleinRose
 - 👀 I’m interested in ping-pong and game
-- 🌱 I’m currently learning front-end
+- 🌱 I’m currently learning 
 - 💞️ I’m jsut learning how to be a first-rate technician
 - 📫 How to reach me that is a secret
 
