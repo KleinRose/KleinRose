@@ -1,9 +1,5 @@
 # :cn:
 - 👋 Hi, I’m KleinRose
-- 👀 I’m interested in ping-pong and game
-- 🌱 I’m currently learning cloud computing
-- 💞️ I’m jsut learning how to be a first-rate technician
-- 📫 How to reach me that is a secret
 
 <!---
 KleinRose/KleinRose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
